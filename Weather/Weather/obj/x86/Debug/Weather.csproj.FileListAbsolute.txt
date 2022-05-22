@@ -1,0 +1,14 @@
+C:\Users\gurin\source\repos\Weather\Weather\bin\x86\Debug\Weather.exe.config
+C:\Users\gurin\source\repos\Weather\Weather\bin\x86\Debug\Weather.exe
+C:\Users\gurin\source\repos\Weather\Weather\bin\x86\Debug\Weather.pdb
+C:\Users\gurin\source\repos\Weather\Weather\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\gurin\source\repos\Weather\Weather\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\gurin\source\repos\Weather\Weather\obj\x86\Debug\Weather.csproj.AssemblyReference.cache
+C:\Users\gurin\source\repos\Weather\Weather\obj\x86\Debug\Weather.csproj.SuggestedBindingRedirects.cache
+C:\Users\gurin\source\repos\Weather\Weather\obj\x86\Debug\Weather.Form1.resources
+C:\Users\gurin\source\repos\Weather\Weather\obj\x86\Debug\Weather.Properties.Resources.resources
+C:\Users\gurin\source\repos\Weather\Weather\obj\x86\Debug\Weather.csproj.GenerateResource.cache
+C:\Users\gurin\source\repos\Weather\Weather\obj\x86\Debug\Weather.csproj.CoreCompileInputs.cache
+C:\Users\gurin\source\repos\Weather\Weather\obj\x86\Debug\Weather.csproj.CopyComplete
+C:\Users\gurin\source\repos\Weather\Weather\obj\x86\Debug\Weather.exe
+C:\Users\gurin\source\repos\Weather\Weather\obj\x86\Debug\Weather.pdb
